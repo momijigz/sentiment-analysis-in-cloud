@@ -1,0 +1,5 @@
+functions-framework==3.5.0
+google-cloud-bigquery==3.13.0
+google-cloud-firestore==2.13.1
+google-cloud-pubsub==2.18.4
+nltk==3.8.1
